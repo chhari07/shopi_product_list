@@ -1,0 +1,210 @@
+[
+  {
+    "name": "Wireless Bluetooth Headphones",
+    "price": 1999,
+    "description": "High-quality over-ear Bluetooth headphones with noise cancellation and 20 hours of battery life.",
+    "ratings": 4.5,
+    "images": [
+      {
+        "public_id": "products/headphones1",
+        "url": "https://example.com/images/headphones1.jpg"
+      }
+    ],
+    "category": "Electronics",
+    "seller": "Tech World",
+    "stock": 50,
+    "numOfReviews": 2,
+    "reviews": [
+      {
+        "name": "Rahul Kumar",
+        "rating": 5,
+        "comment": "Amazing sound quality and very comfortable."
+      },
+      {
+        "name": "Priya Sharma",
+        "rating": 4,
+        "comment": "Battery life is good, but a bit tight on the ears."
+      }
+    ],
+    "createdAt": "2025-10-28T10:00:00Z"
+  },
+  {
+    "name": "Smart Fitness Band",
+    "price": 1499,
+    "description": "Track your steps, heart rate, and sleep with this waterproof fitness tracker.",
+    "ratings": 4.2,
+    "images": [
+      {
+        "public_id": "products/fitnessband1",
+        "url": "https://example.com/images/fitnessband1.jpg"
+      }
+    ],
+    "category": "Wearables",
+    "seller": "FitLife Store",
+    "stock": 100,
+    "numOfReviews": 3,
+    "reviews": [
+      {
+        "name": "Vivek Yadav",
+        "rating": 5,
+        "comment": "Very accurate tracking and stylish look!"
+      },
+      {
+        "name": "Sneha Patel",
+        "rating": 4,
+        "comment": "Great value for money."
+      },
+      {
+        "name": "Arjun Singh",
+        "rating": 3,
+        "comment": "Display could be brighter."
+      }
+    ],
+    "createdAt": "2025-10-28T11:00:00Z"
+  },
+  {
+    "name": "Gaming Mechanical Keyboard",
+    "price": 3499,
+    "description": "RGB backlit mechanical keyboard with blue switches and ergonomic design.",
+    "ratings": 4.8,
+    "images": [
+      {
+        "public_id": "products/keyboard1",
+        "url": "https://example.com/images/keyboard1.jpg"
+      }
+    ],
+    "category": "Computer Accessories",
+    "seller": "GameZone",
+    "stock": 30,
+    "numOfReviews": 1,
+    "reviews": [
+      {
+        "name": "Karan Mehta",
+        "rating": 5,
+        "comment": "Perfect for gaming, keys feel super smooth."
+      }
+    ],
+    "createdAt": "2025-10-27T15:30:00Z"
+  },
+  {
+    "name": "Portable Power Bank 20000mAh",
+    "price": 2499,
+    "description": "Fast-charging power bank with dual USB output and LED battery indicator.",
+    "ratings": 4.3,
+    "images": [
+      {
+        "public_id": "products/powerbank1",
+        "url": "https://example.com/images/powerbank1.jpg"
+      }
+    ],
+    "category": "Electronics",
+    "seller": "ChargeUp India",
+    "stock": 70,
+    "numOfReviews": 2,
+    "reviews": [
+      {
+        "name": "Ankit Tiwari",
+        "rating": 4,
+        "comment": "Charges fast but a little heavy."
+      },
+      {
+        "name": "Riya Verma",
+        "rating": 5,
+        "comment": "Best power bank I’ve used so far!"
+      }
+    ],
+    "createdAt": "2025-10-27T18:00:00Z"
+  },
+  {
+    "name": "Wireless Mouse",
+    "price": 799,
+    "description": "Ergonomic wireless mouse with adjustable DPI and long battery life.",
+    "ratings": 4.1,
+    "images": [
+      {
+        "public_id": "products/mouse1",
+        "url": "https://example.com/images/mouse1.jpg"
+      }
+    ],
+    "category": "Computer Accessories",
+    "seller": "TechStore",
+    "stock": 120,
+    "numOfReviews": 3,
+    "reviews": [
+      {
+        "name": "Deepak Kumar",
+        "rating": 4,
+        "comment": "Smooth and responsive!"
+      },
+      {
+        "name": "Neha Gupta",
+        "rating": 4,
+        "comment": "Good quality for daily use."
+      },
+      {
+        "name": "Pawan Singh",
+        "rating": 5,
+        "comment": "Very comfortable grip."
+      }
+    ],
+    "createdAt": "2025-10-26T14:00:00Z"
+  },
+  {
+    "name": "Smart LED Bulb",
+    "price": 599,
+    "description": "Wi-Fi enabled smart bulb compatible with Alexa and Google Assistant.",
+    "ratings": 4.6,
+    "images": [
+      {
+        "public_id": "products/bulb1",
+        "url": "https://example.com/images/bulb1.jpg"
+      }
+    ],
+    "category": "Home Appliances",
+    "seller": "BrightHome",
+    "stock": 200,
+    "numOfReviews": 4,
+    "reviews": [
+      {
+        "name": "Simran Kaur",
+        "rating": 5,
+        "comment": "Works flawlessly with Alexa!"
+      },
+      {
+        "name": "Harshit Jain",
+        "rating": 4,
+        "comment": "Brightness is good but app can improve."
+      }
+    ],
+    "createdAt": "2025-10-25T16:00:00Z"
+  },
+  {
+    "name": "Noise Cancelling Earbuds",
+    "price": 2999,
+    "description": "Compact true wireless earbuds with active noise cancellation and touch controls.",
+    "ratings": 4.7,
+    "images": [
+      {
+        "public_id": "products/earbuds1",
+        "url": "https://example.com/images/earbuds1.jpg"
+      }
+    ],
+    "category": "Audio Devices",
+    "seller": "SoundMagic",
+    "stock": 80,
+    "numOfReviews": 3,
+    "reviews": [
+      {
+        "name": "Anjali Thakur",
+        "rating": 5,
+        "comment": "Crystal clear sound and bass is great!"
+      },
+      {
+        "name": "Rohit Kumar",
+        "rating": 4,
+        "comment": "Good product, fits comfortably."
+      }
+    ],
+    "createdAt": "2025-10-24T12:00:00Z"
+  }
+]
